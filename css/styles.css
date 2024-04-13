@@ -1,0 +1,36 @@
+body {
+    background-image: url("../assets/img/fondo.jpg");
+    
+}
+.orejona {
+    background-color: rgb(255, 222, 173 / 30%);
+    border: solid;
+    padding-top: 10px;
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#img1{
+    width: 100px;
+}
+
+h1 {text-align: center;
+    color: white;
+
+}
+h2 {text-align: center;
+
+}
+
+#titulo_2{
+    text-align: center;
+}
+
+.color {
+    color: white
+}
+
+h3 {text-align: center;
+}
